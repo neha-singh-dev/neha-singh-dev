@@ -1,16 +1,45 @@
-## Hi there 👋
+👋 Hi, I'm Neha Singh
+Backend Developer | Python | Django | DRF
+M.Tech CSE Student
+💻 About Me
+• Backend Developer focused on Python & Django
 
-<!--
-**neha-singh-dev/neha-singh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Passionate about scalable REST APIs
 
-Here are some ideas to get you started:
+• Currently learning
+   - Data Structures & Algorithms
+   - Operating Systems
+   - System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Interested in AI-powered backend systems
+🛠 Tech Stack
+Languages
+Python
+C++
+
+Backend
+Django
+Django REST Framework
+Flask
+
+Database
+PostgreSQL
+SQL
+
+Tools
+Git
+Linux
+Postman
+🚀 Featured Projects
+Email Triage Environment
+
+Healthcare Management System
+
+Job Portal Backend
+
+Task Manager API
+📫 Connect
+
+LinkedIn 
+
+Email 
