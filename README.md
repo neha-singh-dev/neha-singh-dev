@@ -1,45 +1,111 @@
-👋 Hi, I'm Neha Singh
-Backend Developer | Python | Django | DRF
-M.Tech CSE Student
-💻 About Me
-• Backend Developer focused on Python & Django
+# Hi, I'm Neha Singh 👋
 
-• Passionate about scalable REST APIs
+**Backend Developer** · **M.Tech CSE Student** · **Python & Django Enthusiast**
 
-• Currently learning
-   - Data Structures & Algorithms
-   - Operating Systems
-   - System Design
+I enjoy building backend systems that are scalable, secure and easy to maintain. Most of my work revolves around Django, REST APIs, PostgreSQL and exploring how backend engineering intersects with AI.
 
-• Interested in AI-powered backend systems
-🛠 Tech Stack
-Languages
-Python
-C++
+Currently learning computer science fundamentals while building projects that solve real-world problems.
 
-Backend
-Django
-Django REST Framework
-Flask
+📍 Durgapur, India
 
-Database
-PostgreSQL
-SQL
+📧 neha.s.singh2027@gmail.com
 
-Tools
-Git
-Linux
-Postman
-🚀 Featured Projects
-Email Triage Environment
+💼 LinkedIn • GitHub
 
-Healthcare Management System
+---
 
-Job Portal Backend
+## 🚀 Currently Building
 
-Task Manager API
-📫 Connect
+🧑‍💻 Job Portal Backend
 
-LinkedIn 
+Building a scalable recruitment platform with authentication, role-based access control and REST APIs.
 
-Email 
+---
+
+## ⭐ Featured Projects
+
+### 📧 Email Triage Environment
+
+Simulation environment inspired by reinforcement learning for intelligent email classification using `reset()` and `step()` interactions.
+
+**Tech**
+Python • REST APIs
+
+---
+
+### 🏥 Healthcare Management System
+
+Backend architecture built with Django REST Framework featuring authentication, authorization and modular APIs.
+
+**Tech**
+Django • DRF • PostgreSQL • JWT
+
+---
+
+### 💼 Job Portal Backend *(In Progress)*
+
+Backend for recruiters and job seekers with secure authentication and scalable API architecture.
+
+**Tech**
+Django • PostgreSQL • REST APIs
+
+---
+
+### ✅ Task Manager API
+
+REST API supporting authentication, CRUD operations and structured validation.
+
+**Tech**
+Django REST Framework • JWT
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+- Python
+- C++
+- SQL
+
+### Backend
+
+- Django
+- Django REST Framework
+- Flask
+- REST APIs
+
+### Database
+
+- PostgreSQL
+- SQLite
+
+### Tools
+
+- Git
+- Linux
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Operating Systems
+- System Design
+- Linux
+- Machine Learning Fundamentals
+
+---
+
+## 📈 2026 Goals
+
+- Complete Job Portal Backend
+- Solve 200+ DSA problems
+- Contribute to Open Source
+- Land my first Backend Internship
+- Build production-ready backend systems
+
+---
+
+Thanks for stopping by! ⭐
