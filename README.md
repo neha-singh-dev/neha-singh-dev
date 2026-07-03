@@ -10,7 +10,7 @@ Currently learning computer science fundamentals while building projects that so
 
 📧 neha.s.singh2027@gmail.com
 
-💼 LinkedIn • GitHub
+💼 LinkedIn: https://www.linkedin.com/in/neha-singh-0a008620a/ • Github: https://github.com/neha-singh-dev
 
 ---
 
